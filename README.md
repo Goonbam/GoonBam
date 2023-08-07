@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Exciting%20Developer%20YuJin!&fontSize=50)
 
 # 🛠현재 깃 공사중입니다🛠
-
+<hr>
 <br><br>
 
 >### *HELLO WORLD!* 🐬
