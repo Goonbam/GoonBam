@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/PhotonNetwork-4479A1?style=flat&logo=photonnetwork&logoColor=black"/>
 
 <br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=DotDesign&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Dot&logoColor=black"/>
 
 
 <br/><br/>
