@@ -23,7 +23,7 @@
 
 <br/><br/><br/>
 
->###  *Awesome Project* 🐳
+>###  ***Awesome Project*** 🐳
 
 
 #### [<img src="https://img.shields.io/badge/Unity와 Pun을 이용한 3D로비 및 다중 방 입장형태 온라인 게임-6876EB?style=flat&logo=condaforge&logoColor=white"/>](https://github.com/Goonbam/ProjectHIM.git)
