@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/DotDesign-D9E2FA?style=flat&logo=DotDesign&logoColor=black"/>
 
 
-<br/><br/>
+<br/>
 
 ## 🥇 Awesome Project 🥇
 
