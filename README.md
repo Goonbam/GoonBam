@@ -11,7 +11,7 @@
 
 
 <br/><br/>
-##  Tech Stack 🐋
+##  **Tech Stack** 🐋
 
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=black"/>
