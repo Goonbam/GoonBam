@@ -1,6 +1,6 @@
 <div align=center>
   
-![LYJ](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Exciting%20Developer%20YuJin!&fontSize=45%font-color=black)
+![LYJ](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Exciting%20Developer%20YuJin!&fontSize=45&font-color=black)
 
 # 🛠현재 깃 공사중입니다🛠
 
