@@ -9,7 +9,8 @@
 
 #### 잘하는 사람보다 잘아는 사람이 되고싶습니다
 
-  
+
+<br/><br/>
 ## 💻 Tech Stack 💻
 
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/>
@@ -20,7 +21,7 @@
 <img src="https://img.shields.io/badge/DotDesign-D9E2FA?style=flat&logo=DotDesign&logoColor=black"/>
 
 
-<br/>
+<br/><br/>
 
 ## 🥇 Awesome Project 🥇
 
