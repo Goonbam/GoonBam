@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Exciting%20Developer%20YuJin!&fontSize=45)
 
 # 🛠현재 깃 공사중입니다🛠
-
+<hr/>
 
 #### 웹 풀스택 지향에서 유니티C#으로 전향하게된 학부생입니다
 
@@ -11,7 +11,7 @@
 
 
 <br/><br/>
-<hr/>
+
 ##  *Tech Stack* 🐋
 
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/>
