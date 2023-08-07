@@ -26,8 +26,6 @@
 
 
 #### [<img src="https://img.shields.io/badge/Unity와 Pun을 이용한 3D로비 및 다중 방 입장형태 온라인 게임-00000?style=flat&logo=condaforge&logoColor=black"/>](https://github.com/jsh991226/ProjectHIM)
-#### [<img src="https://img.shields.io/badge/Unity와 Pun을 이용한 3D 멀티 리듬게임-FA243C?style=flat&logo=applemusic&logoColor=black"/>](https://github.com/jsh991226/dotWPublic) 
-
 
 </div>
 
