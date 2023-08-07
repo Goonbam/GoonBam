@@ -30,6 +30,6 @@
 
 
 <br/><br/>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=#337CEB&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=337CEB&height=200&section=footer)
 
 </div>
