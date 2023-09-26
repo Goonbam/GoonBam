@@ -32,7 +32,7 @@
 
 #### [<img src="https://img.shields.io/badge/Unity와 Pun을 이용한 3D로비 및 다중 방 입장형태 온라인 게임-6876EB?style=flat&logo=condaforge&logoColor=white"/>](https://github.com/Goonbam/ProjectHIM.git)
 <br/>
->### * 개발 파트 : 플레이어 애니메이션, 적 애니메이션, 보스 애니메이션(보스 패턴 및 스킬), 전투 시스템, 시네마틱, 카메라 효과(포스트 프로세싱)
+>### * 개발 파트 : 플레이어 애니메이션, 적 애니메이션, 보스 애니메이션(보스 패턴 및 스킬), 전투 시스템, 시네마틱, 카메라 효과(포스트 프로세싱) *
 
 <br/><br/>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=337CEB&height=200&section=footer)
